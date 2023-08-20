@@ -17,3 +17,17 @@ img {
     background-color: rgb(185, 189, 192);
     font-weight: 800;
 }
+.types {
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 550;
+}
+.ingredients {
+    color: rgb(107, 23, 107);
+    background-color: rgb(174, 190, 24);
+}
+.directions {
+    color: hsl(19, 77%, 42%);
+    background-color: hsl(0, 56%, 82%);
+}
