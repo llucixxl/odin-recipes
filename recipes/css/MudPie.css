@@ -64,3 +64,9 @@ ol {
     color: hsl(24, 96%, 10%);
     background-color: hsl(99, 70%, 85%);
 }
+#top {
+    text-align: center;
+}
+#index {
+    text-align: center;
+}
