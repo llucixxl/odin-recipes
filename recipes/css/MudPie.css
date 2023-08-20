@@ -9,3 +9,11 @@ img {
     height: auto;
     width: 600px;
 }
+.description {
+    font-size: 30px;
+    text-align: left;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    color: hsl(189, 84%, 23%);
+    background-color: rgb(185, 189, 192);
+    font-weight: 800;
+}
