@@ -3,9 +3,9 @@ body {
     background-image: linear-gradient(to bottom left, tan, rgba(209, 146, 146, 0.192), teal);
 }
 h1 {
+    font-family: 'Times New Roman', Times, serif;
     color: hsl(83, 86%, 16%);
-    padding-top: 100px;
-    font-family: "Brush Script MT"; "Times New Roman"; Arial; Helvetica;
+    padding-top: 100px; 
     box-sizing: border-box;
     max-width: 920px; 
     height: 260px;
@@ -23,7 +23,7 @@ a {
     display: inline-block;
 }
 .first-recipe a{
-    margin-left: 190px;
+    margin-left: 191px;
     margin-right: 40px;
     color: hsla(22, 89%, 19%, 0.856);
 }
