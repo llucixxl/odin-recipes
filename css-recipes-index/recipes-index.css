@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom left, tan, rgba(209, 146, 146, 0.192), teal);
+}
+h1 {
+    color: hsl(83, 86%, 16%);
+    padding-top: 100px;
+    font-family: "Brush Script MT"; "Times New Roman"; Arial; Helvetica;
+    box-sizing: border-box;
+    max-width: 920px; 
+    height: 350px;
+    margin: 0 auto;
+    padding-left: 207px;
+    font-style: italic;
+    font-size: 100px;  
+} 
+.first-recipe,
+.second-recipe {
+    display: inline-block;
+}
+.first-recipe{
+    margin-left: 300px;
+    margin-right: 1000px;
+}
