@@ -8,17 +8,41 @@ h1 {
     font-family: "Brush Script MT"; "Times New Roman"; Arial; Helvetica;
     box-sizing: border-box;
     max-width: 920px; 
-    height: 350px;
+    height: 260px;
     margin: 0 auto;
-    padding-left: 207px;
+    padding-left: 200px;
     font-style: italic;
     font-size: 100px;  
 } 
+a {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .first-recipe,
 .second-recipe {
     display: inline-block;
 }
-.first-recipe{
-    margin-left: 300px;
-    margin-right: 1000px;
+.first-recipe a{
+    margin-left: 190px;
+    margin-right: 40px;
+    color: hsla(22, 89%, 19%, 0.856);
+}
+.second-recipe a{
+    color: hsl(34, 98%, 45%);
+    padding-left: 40px;
+}
+.third-recipe a{
+    display: block;
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 860px;
+    color: rgb(143, 67, 214);
+}
+img {
+    display: inline-block;
+    height: auto;
+    width: 400px;
+    border-radius: 50%;
+    margin-right: 20px;
 }
